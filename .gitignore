@@ -1,6 +1,4 @@
-fhvhv_tripdata_2021-01.csv
-head.csv
-minortest.csv
 *.parquet
 *.crc
 *.csv
+google_credentials.json
